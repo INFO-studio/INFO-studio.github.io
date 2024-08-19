@@ -4,7 +4,7 @@ user:
   last_name: INFO
   email: beta-s@outlook.com
   domain: https://www.imalun.com
-  avatar: /img/avatar.jpg
+  avatar: /img/avatar.jpeg
   describe: describe
 
 footer:
