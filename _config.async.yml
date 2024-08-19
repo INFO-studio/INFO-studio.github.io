@@ -10,3 +10,14 @@ user:
 footer:
   powered:
     enable: false
+
+sidebar:
+  social:
+    - name: github
+      icon: fab fa-github
+      url: https://github.com
+  info:
+    - key: University
+      val: CQU
+    - key: Loc
+      val: Tianjin
