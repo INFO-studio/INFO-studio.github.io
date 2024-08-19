@@ -1,7 +1,10 @@
+---
+title: Jetbrains IDEs 破解教程
+---
 ## 0. 前情提要  
 - `Jetbrains` 公司提供了十分便捷的 `学生支持`，您完全可以使用学校邮箱或学生证来获取 `Jetbrains` 的正版软件的全部功能  
 
-### 0. 准备工作  
+## 1. 准备工作  
 === "Windows"  
 	1. 打开 [https://3.jetbra.in](https://3.jetbra.in)  
 	2. 打开任意可以打开的链接，其为激活页  
@@ -16,7 +19,7 @@
 	4. 解压文件夹 `jetbra` 至 `Applications`  
 	5. 打开 [https://www.jetbrains.com/](https://www.jetbrains.com/)，下载所需软件的正版并安装  
 	
-### 1. 开始破解  
+## 2. 开始破解  
 === "Windows"  
 	1. 选择您想要安装的用户  
 		* 如果想要仅给当前用户安装  
@@ -39,5 +42,5 @@
 	4. 打开对应软件，选择 `Activation code`，将激活码复制进文本框  
 	5. 点击 `Activate`，即激活成功  
 
-### 2. 注意事项  
+## 3. 注意事项  
 1. 请勿将 `Applications` 中的 `jetbra` 文件夹移除，这会使激活失效  
