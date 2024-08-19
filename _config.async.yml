@@ -1,3 +1,8 @@
 user:
   name: 茵符草
+  first_name: INFO
+  last_name: c
   email: beta-s@outlook.com
+  domain: https://www.imalun.com
+  avatar: /img/avatar.jpg
+  describe: 网站简介。
